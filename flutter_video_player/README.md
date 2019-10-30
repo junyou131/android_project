@@ -1,6 +1,6 @@
 # flutter_video_player
 
-A new Flutter project.
+A new Flutter project for video player.
 
 ## Getting Started
 
